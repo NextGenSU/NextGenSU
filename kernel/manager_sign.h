@@ -4,7 +4,7 @@
 #include <linux/types.h>
 
 // NextGenSU/KernelSU
-#define EXPECTED_SIZE_SHIRKNEKO 0x39F
+#define EXPECTED_SIZE_SHIRKNEKO 0x39f
 #define EXPECTED_HASH_SHIRKNEKO                                                \
 	"f4e774f704af6e958158835da8b8ffffc7aa7a977093828280f6926617ae469a"
 
