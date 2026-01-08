@@ -2,9 +2,9 @@
 #define MANAGER_SIGN_H
 
 // ShirkNeko/SukiSU
-#define EXPECTED_SIZE_SHIRKNEKO 0x35c
-#define EXPECTED_HASH_SHIRKNEKO                                                \
-    "947ae944f3de4ed4c21a7e4f7953ecf351bfa2b36239da37a34111ad29993eef"
+#define EXPECTED_SIZE_NEXTGENSU 0x39F
+#define EXPECTED_HASH_NEXTGENSU                                                \
+    "f4e774f704af6e958158835da8b8ffffc7aa7a977093828280f6926617ae469a"
 
 typedef struct {
     u32 size;
