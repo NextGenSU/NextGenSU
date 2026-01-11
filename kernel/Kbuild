@@ -48,7 +48,7 @@ obj-$(CONFIG_KPM) += kpm/
 
 REPO_OWNER := NextGenSU
 REPO_NAME := NextGenSU
-REPO_BRANCH := nextgen
+REPO_BRANCH := tmp-builtin-nextgen
 KSU_VERSION_API := 4.1.0
 
 GIT_BIN := /usr/bin/env PATH="$$PATH":/usr/bin:/usr/local/bin git
